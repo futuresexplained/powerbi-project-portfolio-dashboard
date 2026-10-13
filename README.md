@@ -6,6 +6,7 @@ Built by **Peh Chin Boon**
 🔗 [LinkedIn](https://www.linkedin.com/in/chin-boon-peh/) (best way to reach me)
 
 > **Note on the data:** All data is **synthetic**. It was generated to mimic a generic Singapore public-sector-style IT portfolio (e-services, data centre refresh, AI enhancements, DevOps, security and governance). It contains no real agency, vendor or personnel data.
+
 > **Source file:** The `.pbix` and underlying datasets are **available upon request** via LinkedIn.
 
 ---
