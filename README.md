@@ -2,7 +2,7 @@
 
 **A four-page Power BI dashboard that gives a PMO, program director or steering committee a single view of a seven-project IT portfolio: health, schedule, cost, and risks/issues/change control.**
 
-Built by **Peh Chin Boon** – IT project/programme manager (14+ years) moving into hybrid data and programme roles.
+Built by **Peh Chin Boon**
 🔗 [LinkedIn](https://www.linkedin.com/in/chin-boon-peh/) (best way to reach me)
 
 > **Note on the data:** All data is **synthetic**. It was generated to mimic a generic Singapore public-sector-style IT portfolio (e-services, data centre refresh, AI enhancements, DevOps, security and governance). It contains no real agency, vendor or personnel data.
