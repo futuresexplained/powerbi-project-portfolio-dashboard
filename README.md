@@ -1,6 +1,6 @@
 # Project Portfolio Tracking Dashboard (Power BI)
 
-**A four-page Power BI dashboard that gives a PMO, programme director or steering committee a single view of a seven-project IT portfolio: health, schedule, cost, and risks/issues/change control.**
+**A four-page Power BI dashboard that gives a PMO, program director or steering committee a single view of a seven-project IT portfolio: health, schedule, cost, and risks/issues/change control.**
 
 Built by **Peh Chin Boon** – IT project/programme manager (14+ years) moving into hybrid data and programme roles.
 🔗 [LinkedIn](https://www.linkedin.com/in/chin-boon-peh/) (best way to reach me)
